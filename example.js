@@ -1,4 +1,4 @@
-//This example demonstrate how to implement BasicCard and ClozeCard modules
+//This example demonstrates how to implement BasicCard and ClozeCard modules
 
 var BasicCard = require('./basiccard');
 var ClozeCard = require('./clozecard');
