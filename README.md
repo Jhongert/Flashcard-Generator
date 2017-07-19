@@ -14,7 +14,7 @@ Open Terminal/bash window
 - Clone this repo. `git clone https://github.com/Jhongert/Flashcard-Generator.git`.
 - Navigate to Flashcard-Generator folder. `cd Flashcard-Generator`.
 - Install all dependencies. `npm install`.
-- Open example.js to see a implementation example.
+- Open example.js to see an implementation example.
 - Run `node example.js` to see the result.
 
 ### Application Structure
