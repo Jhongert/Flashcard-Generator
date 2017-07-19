@@ -14,6 +14,8 @@ Open Terminal/bash window
 - Clone this repo. `git clone https://github.com/Jhongert/Flashcard-Generator.git`.
 - Navigate to Flashcard-Generator folder. `cd Flashcard-Generator`.
 - Install all dependencies. `npm install`.
+- Open example.js to see a implementation example.
+- Run `node example.js` to see the result.
 
 ### Application Structure
 - `basiccard.js` - This file defines a Node module that exports a constructor for creating basic flashcards.
@@ -29,9 +31,9 @@ Open Terminal/bash window
 ## Usage
 To run this app you must have node.js installed on your computer.
 ### example.js
-Example.js just demonstrates how to implement BasicCard and ClozeCard modules.
-Run `node example.js` in your terminal/bash window to see the result.
-**Note** The last line on this file, will throw an error. 
+- Example.js just demonstrates how to implement BasicCard and ClozeCard modules.
+- Run `node example.js` in your terminal/bash window to see the result.
+- **Note** The last line on this file, will throw an error. 
 
 ### main.js
 - Run `node main.js` in your terminal/bash window.
